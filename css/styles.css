@@ -41,7 +41,7 @@ header {
   border-bottom: 1px solid #e7e9fc;
 }
 /* HEADER */
-.header-ivner {
+.header .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
