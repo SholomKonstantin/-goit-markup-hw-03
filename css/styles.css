@@ -174,7 +174,7 @@ header {
 .advantage-item {
   flex-basis: calc((100% - 72px) / 4);
 }
-.our-advantages-title visually-hidden {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
