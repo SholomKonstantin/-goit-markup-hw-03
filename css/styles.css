@@ -116,6 +116,10 @@ header {
 .nav-adress:focus {
   color: #404bbf;
 }
+.nav-item {
+  display: flex;
+  gap: 40px;
+}
 
 /* HERO-SECTION */
 
@@ -287,6 +291,7 @@ header {
 .portfolio-text {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 .img-portfolio {
